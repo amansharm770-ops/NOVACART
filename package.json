@@ -1,0 +1,10 @@
+{
+  "name": "novacart-workspace",
+  "private": true,
+  "scripts": {
+    "sync": "powershell -ExecutionPolicy Bypass -File ./sync.ps1",
+    "auto-sync": "powershell -ExecutionPolicy Bypass -File ./auto-sync.ps1",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev"
+  }
+}
