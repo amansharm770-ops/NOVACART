@@ -23,6 +23,17 @@ npm run dev                # http://localhost:5173  (proxies /api to :5000)
 - Leave `MONGODB_URI` empty in development to use a temporary in-memory MongoDB (products auto-seeded, data resets on restart; use a real URI for admin work).
 - Tests: `cd server && npm test` (in-memory MongoDB, or set `MONGODB_URI_TEST`).
 
+## GitHub Auto-Sync
+
+To automatically commit and push any changes you make to GitHub:
+```powershell
+npm run auto-sync
+```
+Or for a one-time push of all current changes:
+```powershell
+npm run sync
+```
+
 ## Production notes
 - Server: `NODE_ENV=production`, `CLIENT_ORIGINS=https://your-site`, strong JWT secrets, `MONGODB_URI`.
 - Client: set `VITE_API_URL=https://your-api/api` at build time. `public/_redirects` handles SPA routing on Netlify.
