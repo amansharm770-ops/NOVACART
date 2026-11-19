@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Premium Wireless Headphones",
+    "description": "High quality premium wireless headphones with 1 year warranty and fast delivery across India.",
+    "category": "Electronics",
+    "price": 2499,
+    "oldPrice": 3999,
+    "stock": 40,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600"
+    ],
+    "tag": "BESTSELLER",
+    "rating": 4.8,
+    "reviews": 1240
+  },
+  {
+    "name": "Smart Watch Series X",
+    "description": "High quality smart watch series x with 1 year warranty and fast delivery across India.",
+    "category": "Accessories",
+    "price": 3299,
+    "oldPrice": 4999,
+    "stock": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600"
+    ],
+    "tag": "TRENDING",
+    "rating": 4.6,
+    "reviews": 890
+  },
+  {
+    "name": "Modern Running Shoes",
+    "description": "High quality modern running shoes with 1 year warranty and fast delivery across India.",
+    "category": "Fashion",
+    "price": 1899,
+    "oldPrice": 2999,
+    "stock": 60,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600"
+    ],
+    "tag": "SALE",
+    "rating": 4.5,
+    "reviews": 650
+  },
+  {
+    "name": "Minimal Desk Lamp",
+    "description": "High quality minimal desk lamp with 1 year warranty and fast delivery across India.",
+    "category": "Home",
+    "price": 1299,
+    "oldPrice": 1999,
+    "stock": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600"
+    ],
+    "tag": "POPULAR",
+    "rating": 4.7,
+    "reviews": 420
+  },
+  {
+    "name": "Modern Digital Camera",
+    "description": "High quality modern digital camera with 1 year warranty and fast delivery across India.",
+    "category": "Electronics",
+    "price": 18999,
+    "oldPrice": 22999,
+    "stock": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600"
+    ],
+    "tag": "PREMIUM",
+    "rating": 4.9,
+    "reviews": 320
+  },
+  {
+    "name": "Everyday Backpack",
+    "description": "High quality everyday backpack with 1 year warranty and fast delivery across India.",
+    "category": "Accessories",
+    "price": 1499,
+    "oldPrice": 2499,
+    "stock": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600"
+    ],
+    "tag": "VALUE PICK",
+    "rating": 4.4,
+    "reviews": 510
+  },
+  {
+    "name": "Nova Pro 5G Smartphone (8GB/128GB)",
+    "description": "High quality nova pro 5g smartphone (8gb/128gb) with 1 year warranty and fast delivery across India.",
+    "category": "Mobiles",
+    "price": 17999,
+    "oldPrice": 21999,
+    "stock": 35,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600"
+    ],
+    "tag": "NEW",
+    "rating": 4.5,
+    "reviews": 2310
+  },
+  {
+    "name": "Galaxy Lite 5G (6GB/128GB)",
+    "description": "High quality galaxy lite 5g (6gb/128gb) with 1 year warranty and fast delivery across India.",
+    "category": "Mobiles",
+    "price": 12499,
+    "oldPrice": 14999,
+    "stock": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=600"
+    ],
+    "tag": "",
+    "rating": 4.3,
+    "reviews": 1580
+  },
+  {
+    "name": "Ultrabook 14 Laptop (i5, 16GB, 512GB SSD)",
+    "description": "High quality ultrabook 14 laptop (i5, 16gb, 512gb ssd) with 1 year warranty and fast delivery across India.",
+    "category": "Computers",
+    "price": 52999,
+    "oldPrice": 64999,
+    "stock": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600"
+    ],
+    "tag": "BESTSELLER",
+    "rating": 4.6,
+    "reviews": 640
+  },
+  {
+    "name": "Creator Laptop 15.6 (Ryzen 7, 16GB)",
+    "description": "High quality creator laptop 15.6 (ryzen 7, 16gb) with 1 year warranty and fast delivery across India.",
+    "category": "Computers",
+    "price": 68999,
+    "oldPrice": 79999,
+    "stock": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600"
+    ],
+    "tag": "",
+    "rating": 4.7,
+    "reviews": 410
+  },
+  {
+    "name": "Mechanical Gaming Keyboard RGB",
+    "description": "High quality mechanical gaming keyboard rgb with 1 year warranty and fast delivery across India.",
+    "category": "Computers",
+    "price": 2999,
+    "oldPrice": 4499,
+    "stock": 60,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600"
+    ],
+    "tag": "TRENDING",
+    "rating": 4.4,
+    "reviews": 980
+  },
+  {
+    "name": "Portable Bluetooth Speaker",
+    "description": "High quality portable bluetooth speaker with 1 year warranty and fast delivery across India.",
+    "category": "Electronics",
+    "price": 1799,
+    "oldPrice": 2999,
+    "stock": 45,
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600"
+    ],
+    "tag": "",
+    "rating": 4.4,
+    "reviews": 2050
+  },
+  {
+    "name": "Fast Charging Power Bank 20000mAh",
+    "description": "High quality fast charging power bank 20000mah with 1 year warranty and fast delivery across India.",
+    "category": "Accessories",
+    "price": 1499,
+    "oldPrice": 2299,
+    "stock": 80,
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=600"
+    ],
+    "tag": "DEAL",
+    "rating": 4.5,
+    "reviews": 3120
+  },
+  {
+    "name": "Ceramic Table Lamp",
+    "description": "High quality ceramic table lamp with 1 year warranty and fast delivery across India.",
+    "category": "Home",
+    "price": 999,
+    "oldPrice": 1599,
+    "stock": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600"
+    ],
+    "tag": "",
+    "rating": 4.2,
+    "reviews": 310
+  }
+]

@@ -1,3 +1,28 @@
-node_modules
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment files and credentials
 .env
+.env.*
+server/.env
+client/.env
+
+# Build outputs
+dist/
+*/dist/
+
+# Cache and temporary files
+.vite/
+*/.vite/
+.vite-temp/
+*/.vite-temp/
 *.log
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+.idea/
+
+# Duplicate subfolder
+novacart/
